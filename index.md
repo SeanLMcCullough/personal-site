@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  ![Sean McCullough Avatar](https://gravatar.com/avatar/60910b6cc8dc6609c4adf77628407c2d?s=400&d=robohash&r=x)
+  <img alt="Sean McCullough Avatar" src="https://gravatar.com/avatar/60910b6cc8dc6609c4adf77628407c2d?s=400&d=robohash&r=x" width="400" height="400" />
 </div>
 
 # Sean McCullough
