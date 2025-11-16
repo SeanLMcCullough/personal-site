@@ -11,4 +11,4 @@ This was a unique opportunity to incorporate my knowledge as a software and plat
 
 For Amateur Radio operators, it is particularly advantageous to have a personal website to link to for a bio and for the social aspect of Amateur Radio. GitHub Pages is a great tool for this as it is free and accessible with minimal technical know-how.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbm_WBlYCqpmeFCtXlP3YYOsDELi6oZp1RE87aesEoRZ-sbKyQsXC1Xrjp-rTZC9afU8ipUPzEgIt9/pubembed?start=true&loop=true&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbm_WBlYCqpmeFCtXlP3YYOsDELi6oZp1RE87aesEoRZ-sbKyQsXC1Xrjp-rTZC9afU8ipUPzEgIt9/pubembed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
