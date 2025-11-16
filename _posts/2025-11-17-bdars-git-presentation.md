@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing post"
+title: " Presenting about Git and GitHub at BDARS"
 ---
 
 # Presenting about Git and GitHub at BDARS
