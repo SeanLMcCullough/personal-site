@@ -19,3 +19,14 @@ I'm a member of the [Bayside District Amateur Radio Society](https://bdars.org.a
 I have over 10 years of professional software engineering experience with a focus on web development (that's why my website is a lazy GitHub pages site!)
 
 I have a decently broad skillset because I find every aspect of technology fascinating. I'm capable of building entire microservice-based web architectures and apps from the ground up and deploying them on web-scale infrastructure, both in the cloud and self-hosted.
+
+## Posts
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <small>— {{ post.date | date: "%Y-%m-%d" }}</small>
+    </li>
+  {% endfor %}
+</ul>
