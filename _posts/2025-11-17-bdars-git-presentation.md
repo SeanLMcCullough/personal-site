@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Presenting about Git and GitHub at BDARS"
+date: 2025-11-17 19:30:00 +1000
+categories: git webdev programming talks
 ---
 
 # Presenting about Git and GitHub at BDARS
@@ -30,6 +32,10 @@ This website is built using GitHub pages. You can [view the source code here](ht
 To get started, create a public GitHub repository, and add an `index.md` file in Markdown format. Example [here](https://github.com/SeanLMcCullough/personal-site/blob/main/index.md?plain=1).
 
 Then go into your repository settings and enable GitHub pages. In about a minute your page should be live!
+
+GitHub uses [Jekyll](https://jekyllrb.com/), a static website framework, to generate webpages from a Markdown+HTML hybrid format. It is very powerful, and there are [many themes available](http://jekyllthemes.org/). When changes are made, a default GitHub action is triggered in your repository which will build and deploy your website.
+
+To add more content to your website [check out this guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
 
 * by default, your site will use a `github.io` domain ([example](https://seanlmccullough.github.io/antennas/)). To use a custom domain you will have to own or reigster one, and point it to GitHub's DNS servers.
 
