@@ -2,7 +2,7 @@
 layout: post
 title: "Presenting about Git and GitHub at BDARS"
 date: 2025-11-17 19:30:00 +1000
-categories: git webdev programming talks
+categories: talks
 ---
 
 # Presenting about Git and GitHub at BDARS
