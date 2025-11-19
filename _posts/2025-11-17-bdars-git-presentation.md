@@ -43,6 +43,6 @@ To add more content to your website [check out this guide](https://docs.github.c
 
 ## Presentation slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbm_WBlYCqpmeFCtXlP3YYOsDELi6oZp1RE87aesEoRZ-sbKyQsXC1Xrjp-rTZC9afU8ipUPzEgIt9/pubembed?start=true&loop=true&delayms=3000" frameborder="0" max-width="1440" width="100%" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbm_WBlYCqpmeFCtXlP3YYOsDELi6oZp1RE87aesEoRZ-sbKyQsXC1Xrjp-rTZC9afU8ipUPzEgIt9/pubembed?start=true&loop=true&delayms=3000" frameborder="0" width="100%" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [Read more about our tech night here](https://bdars.org.au/events/technight-nov25-jpg/)
