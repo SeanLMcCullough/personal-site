@@ -15,8 +15,6 @@ For Amateur Radio operators, it is particularly advantageous to have a personal 
 
 ## Additional resources
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/idLyobOhtO4?si=2WA7DZXgoMKKrn7m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - [git](https://git-scm.com/)
 - [install git](https://git-scm.com/)
 - [git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -24,6 +22,10 @@ For Amateur Radio operators, it is particularly advantageous to have a personal 
 - [learn how to use GitHub](https://skills.github.com/)
 - [Linus Torvalds talks about Git](https://www.youtube.com/watch?v=idLyobOhtO4)
 - [GitHub Pages quickstart](https://docs.github.com/en/pages/quickstart)
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/idLyobOhtO4?si=2WA7DZXgoMKKrn7m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Make your own GitHub Pages website for free*
 
@@ -41,6 +43,6 @@ To add more content to your website [check out this guide](https://docs.github.c
 
 ## Presentation slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbm_WBlYCqpmeFCtXlP3YYOsDELi6oZp1RE87aesEoRZ-sbKyQsXC1Xrjp-rTZC9afU8ipUPzEgIt9/pubembed?start=true&loop=true&delayms=3000" frameborder="0" width="100%" height="" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbm_WBlYCqpmeFCtXlP3YYOsDELi6oZp1RE87aesEoRZ-sbKyQsXC1Xrjp-rTZC9afU8ipUPzEgIt9/pubembed?start=true&loop=true&delayms=3000" frameborder="0" max-width="1440" width="100%" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [Read more about our tech night here](https://bdars.org.au/events/technight-nov25-jpg/)
