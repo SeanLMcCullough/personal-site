@@ -27,6 +27,8 @@ For Amateur Radio operators, it is particularly advantageous to have a personal 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/idLyobOhtO4?si=2WA7DZXgoMKKrn7m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RxHJdapz2p0?si=SQr2uBvVNzNjeduB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Make your own GitHub Pages website for free*
 
 This website is built using GitHub pages. You can [view the source code here](https://github.com/SeanLMcCullough/personal-site).
