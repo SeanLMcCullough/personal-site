@@ -1,0 +1,33 @@
+// Layout and grid styles
+.section-gutters {
+  display: flex;
+  min-height: 100vh;
+}
+.gutter {
+  flex-shrink: 0;
+}
+.gutter-left {
+  width: 2vw;
+  background: $handbook-green;
+}
+.gutter-right {
+  width: 8vw;
+  background: $handbook-green;
+}
+.section-content {
+  flex: 1 1 0;
+  max-width: 800px;
+  margin: 0 auto;
+  background: $lumon-white;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+@media (max-width: 900px) {
+  .gutter-left, .gutter-right {
+    width: 4vw;
+  }
+  .section-content {
+    max-width: 98vw;
+  }
+}

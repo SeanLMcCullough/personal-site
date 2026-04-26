@@ -1,0 +1,18 @@
+about:
+  name: About
+  accent: handbook-green
+cv:
+  name: CV
+  accent: mid-steel
+projects:
+  name: Projects
+  accent: data-blue
+blog:
+  name: Blog
+  accent: deep-navy
+videos:
+  name: Videos
+  accent: deep-navy
+presentations:
+  name: Talks
+  accent: data-blue

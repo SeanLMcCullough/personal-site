@@ -1,2 +1,10 @@
 title: "Sean McCullough"
 description: "Software Engineer - Brisbane, Australia."
+exclude:
+  - CLAUDE.md
+  - THEME_GUIDE.md
+  - index.old.md
+  - Gemfile
+  - Gemfile.lock
+  - .ruby-version
+  - .gitignore

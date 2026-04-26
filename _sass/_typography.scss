@@ -1,0 +1,39 @@
+// Typography variables and base styles
+
+$font-archivo: 'Archivo', sans-serif;
+$font-figtree: 'Figtree', sans-serif;
+$font-ibm-plex-mono: 'IBM Plex Mono', monospace;
+
+$font-headline: $font-archivo;
+$font-subtitle: $font-archivo;
+$font-body: $font-figtree;
+$font-code: $font-ibm-plex-mono;
+
+
+body {
+  font-family: $font-body;
+  font-weight: 300;
+  line-height: 1.7;
+  color: $deep-navy;
+  background: $lumon-white;
+}
+
+
+h1, .section-title, .post-title {
+  font-family: $font-headline;
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+  font-weight: 500;
+}
+
+
+h2, .landing-subtitle {
+  font-family: $font-subtitle;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+}
+
+
+code, pre {
+  font-family: $font-code;
+}
