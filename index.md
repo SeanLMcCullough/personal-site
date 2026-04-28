@@ -2,7 +2,7 @@
   <img alt="Sean McCullough Avatar" src="https://gravatar.com/avatar/60910b6cc8dc6609c4adf77628407c2d?s=400&d=robohash&r=x" width="400" height="400" />
 </div>
 
-Hi there! I'm Sean, a senior software engineer based in Brisbane, Australia. I used to do freelance work, but this has now come to an end and I'm no longer taking on new clients.
+Hi there! I'm Sean, a senior software engineer based in Brisbane, Australia.
 
 ## Career
 
