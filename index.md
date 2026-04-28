@@ -2,7 +2,13 @@
   <img alt="Sean McCullough Avatar" src="https://gravatar.com/avatar/60910b6cc8dc6609c4adf77628407c2d?s=400&d=robohash&r=x" width="400" height="400" />
 </div>
 
-Hi there! I'm Sean, a software engineer based in Brisbane, Australia. I used to do freelance work, but this has now come to an end and I'm no longer taking on new clients.
+Hi there! I'm Sean, a senior software engineer based in Brisbane, Australia. I used to do freelance work, but this has now come to an end and I'm no longer taking on new clients.
+
+## Career
+
+I have over 10 years of professional software engineering experience with a focus on web application and platform development in the SaaS and enterprise space.
+
+I have a decently broad skillset because I find every aspect of technology fascinating. I'm capable of building entire microservice-based web architectures and apps from the ground up and deploying them on web-scale infrastructure, both in the cloud and self-hosted.
 
 ## Amateur Radio
 
@@ -11,14 +17,6 @@ I'm a Ham! My callsign is [VK4SLM](https://www.qrz.com/db/VK4SLM). I hold my adv
 I run a Xiegu G90 in the shack and portable. I have a variety of VHF/UHF radios as well for local repeater work. I hope to expand into microwave and LF when time and money permits.
 
 I'm a member of the [Bayside District Amateur Radio Society](https://bdars.org.au/).
-
-## Career
-
-**I'm currently employed and I'm not open to work.**
-
-I have over 10 years of professional software engineering experience with a focus on web development (that's why my website is a lazy GitHub pages site!)
-
-I have a decently broad skillset because I find every aspect of technology fascinating. I'm capable of building entire microservice-based web architectures and apps from the ground up and deploying them on web-scale infrastructure, both in the cloud and self-hosted.
 
 ## Posts
 
